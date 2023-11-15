@@ -1,0 +1,2 @@
+input_reading.c:31:6:getKeyInput	16	static
+input_reading.c:58:5:isButtonPressed	16	static

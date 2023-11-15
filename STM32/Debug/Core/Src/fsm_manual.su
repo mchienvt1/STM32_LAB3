@@ -1,0 +1,3 @@
+fsm_manual.c:22:6:returnMODE1	8	static
+fsm_manual.c:28:6:inc_time	4	static
+fsm_manual.c:35:6:fsm_manual	8	static

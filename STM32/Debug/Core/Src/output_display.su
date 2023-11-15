@@ -1,0 +1,6 @@
+output_display.c:26:6:road1_ledOn	24	static
+output_display.c:36:6:road2_ledOn	24	static
+output_display.c:47:6:led_Off	16	static
+output_display.c:55:6:en_On	24	static
+output_display.c:67:6:updateBuffer	4	static
+output_display.c:75:6:display7SEG	16	static

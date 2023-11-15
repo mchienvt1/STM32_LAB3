@@ -1,0 +1,3 @@
+fsm_automatic.c:23:6:road1_fsmAuto	8	static
+fsm_automatic.c:64:6:road2_fsmAuto	8	static
+fsm_automatic.c:106:6:set_Init	4	static
